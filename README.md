@@ -12,7 +12,6 @@ After I finished my first course about Android app development on <a target="_bl
 Today I have built multiple Flutter apps that run on all kind of platforms from Smart TV's to Phones and even within Microsoft Teams.
 <hr>
 </details>
-
 <details>
 <summary>WordPress</summary>
 <hr>
@@ -21,14 +20,12 @@ Today I have built multiple Flutter apps that run on all kind of platforms from 
     After a few years I decided to give WordPress another try (because of my job) and I loved it. Working with reliable plugins like <a href="https://jetpack.com" target="_blank">Jetpack</a> makes building with WordPress fast and fun while being sure there is a backup no matter what happens.  
 <hr>
 </details>
-
 <details>
 <summary>Angular</summary>
 <hr>
     At the moment I am still kind off new to JavaScript frameworks but so far Angular has been great to use. 
 <hr>
 </details>
-
 <details>
 <summary>HTML, CSS, JavaScript</summary>
 <hr>
