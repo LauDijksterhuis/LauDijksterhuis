@@ -41,5 +41,5 @@ I still like to begin with that blank sheet and create custom HTML, CSS and Java
 <hr>
 </details>
 
-## My contributions to open source
+
 Learning and thinking about code made me realize how wonderful open-source projects are and the ability to buildup on each other's resources. This optimistic ideology is something we can and should all contribute to. 
