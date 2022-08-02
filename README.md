@@ -42,25 +42,4 @@ I still like to begin with that blank sheet and create custom HTML, CSS and Java
 </details>
 
 ## My contributions to open source
-Learning and thinking about code made me realize how wonderful open-source projects are and the ability to buildup on each other's resources. This optimistic ideology is something we can and should all contribute to. But sadly, it is not all sunshine and rainbows...
-
-<details>
-<summary>Read more</summary>
-<hr>
-Each has their own way to contribute, one writes code and makes it publicly available, the other reads and check code for security issues and vulnerabilities.
-<br><br>
-This is important because open-source code also has a dark side. For example: Hackers that infiltrate big open-source projects, which many computers, servers or companies rely on, can spread some kind of malware to millions if not billions of computers. Which threatens all kinds of data, companies and in the worst case real people and societies. 
-<br><br>
-Personally, as a young developer, I feel responsible for contributing to de bright side of open-source software. That is why started publishing solutions to problems I have faced myself (mostly with Flutter). 
-<br><br>
-These can be small things like how to round the corners off a <span style="background-color: #aaa; color: #222; padding: 2px 8px; border-radius: 4px; word-spacing: 16px;">ExpansionTile ▾</span>. But also, bigger things like a fully customizable  World Map including every country & Island in the world (as far as I could find). Which you can both find at <a href="https://github.com/simplewidgets"> https://github.com/simplewidgets </a>
-<br><br>
-As a final note, I would like to encourage every developer to contribute to opensource code and check it for vulnerabilities (including mine) so together we can build a safe and open future.
-
-
-</details>
-
-
-
-
-
+Learning and thinking about code made me realize how wonderful open-source projects are and the ability to buildup on each other's resources. This optimistic ideology is something we can and should all contribute to. 
