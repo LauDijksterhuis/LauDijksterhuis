@@ -1,6 +1,7 @@
 # Hi there 👋🏼
 My name is **[Lau Dijksterhuis](https://laudijksterhuis.com "Laudijksterhuis.com")**. I am a digital enthusiast with a passion for creating a unified brand experience throughout digital media and platforms.
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@laudijksterhuis/bcd0e1a1-a514-4ab0-b233-a5fc78a54277.png" /></a>
 ## A few of my skills
 
 Learning every coding language in the world is an impossible task. So instead, I decided to focus on a few platforms that help me build beautiful and reliable apps and websites.
